@@ -41,7 +41,9 @@ $ vue init mpvue/mpvue-quickstart my-project
 
 #### 5. 安装依赖
 $ cd my-project
+
 $ npm install
+
 $ npm run dev
 
 注意事项
